@@ -1,0 +1,143 @@
+.main{
+    padding: 20px;
+    margin: 15px;
+}
+button{
+    background-color: blue;
+    font-size: 13;
+    cursor: pointer;
+    align-items: center;
+    font-family: arial;
+    transform: rotate(round);
+    padding: 10px 25px;
+    outline: none;
+    border-radius: 20px;
+    color: white;
+}
+button:hover{
+    background-color: rgb(17, 17, 169);
+
+}
+
+
+.nav1 ul li:hover{
+    background-color: rgb(61, 34, 8);
+    color: black;
+}
+.nav1 ul {
+    display: flex;
+    
+    
+}
+
+.nav1 li{
+    list-style: none;
+    
+    
+}
+
+.nav1 li a{
+    text-decoration: none;
+    padding: 1px 5px;
+    margin: 5px;
+    color: grey;
+}
+
+header{
+    display: flex;
+
+}
+
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+div{
+    border: 10;
+    margin: auto;
+
+}
+  
+.valve{
+    display: block;
+    padding-bottom: 40px;
+    height: auto;
+}
+
+.adamu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.yoan{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.ajax{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.email{ 
+    position: absolute;
+    right: 0px;
+    margin-right: 60px;
+}
+
+.loop{
+    justify-content: space-between;
+    background-color: rgb(218, 213, 207);
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+.loop ul {
+    list-style: none;
+    padding: 0;
+    justify-content: space-around;
+    margin: 0;
+    overflow: hidden;
+    flex-direction: row;
+    display: flex;
+}
+
+.loop ul:hover{
+    background-color: rgb(115, 115, 22);
+    color: black;
+}
+ul img{
+    width: 40px;
+    display: block;
+    float: left;
+    height: 50px;
+    margin-top: 1px;
+
+}
+.app ul li a:hover{
+    background-color: blueviolet;
+    color: black;
+
+}
+
+
+.savage{
+    padding-left: 220;
+    font-size: larger;
+}
+
+.section1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.buttom{
+    border-style: ridge ;
+}
+
